@@ -1,0 +1,1 @@
+This example demonstrates a potential issue with data redefinition in COBOL.  Improper handling of REDEFINES can lead to unexpected results. The bug.cob file shows a scenario where data is moved into a redefined area, causing potential data overwrite issues. The bugSolution.cob file presents a correct solution.
